@@ -12,13 +12,14 @@ Language features:
 - data classes
 - destructor
 - visibility
-- expression bodies ♥
+- expression bodies
 - type inference
 - when
 - smart casting
 - let/run/with/apply/also
 - extension functions
 - higher order functions
+- lazy initialization
 
 - Java interop
 
@@ -29,6 +30,16 @@ Coroutines:
 - performance
 - timeouts
 - suspending functions
+- channels
 
 Spring:
-- Streaming
+- Reactive demo
+
+Server: https://github.com/pimtegelaar/iska-spring5
+Client: https://github.com/pimtegelaar/iska-spring5-client
+
+More about Kotlin support in spring
+https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
+
+
+
