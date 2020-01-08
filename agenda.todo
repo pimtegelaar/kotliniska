@@ -1,0 +1,34 @@
+Kotlin
+Pim Tegelaar
+Email: pimt@infosupport.com
+Download: https://github.com/pimtegelaar/kotliniska
+
+Language features:
+- null?
+- val/var
+- properties
+- default values
+- named parameters
+- data classes
+- destructor
+- visibility
+- expression bodies ♥
+- type inference
+- when
+- smart casting
+- let/run/with/apply/also
+- extension functions
+- higher order functions
+
+- Java interop
+
+Coroutines:
+- non-blocking
+- join
+- scopes
+- performance
+- timeouts
+- suspending functions
+
+Spring:
+- Streaming
