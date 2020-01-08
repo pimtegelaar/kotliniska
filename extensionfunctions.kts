@@ -1,13 +1,13 @@
 data class Person(
 	val name: String,
-	val age: Int = 99,
+	val age: Int,
 	val cool: Boolean,
 	val nice: Boolean
 )
 
 data class PersonDto(
 	val name: String,
-	val age: Int = 99,
+	val age: Int,
 	val cool: Boolean,
 	val nice: Boolean
 )
